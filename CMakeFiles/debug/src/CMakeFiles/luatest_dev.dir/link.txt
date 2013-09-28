@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/luatest_dev.dir/main.cpp.o CMakeFiles/luatest_dev.dir/LuaMetatable.cpp.o CMakeFiles/luatest_dev.dir/LuaContext.cpp.o  -o ../../../bin/luatest_dev -rdynamic ../../../linux/x64/lib/liblua.a -ldl -Wl,-rpath,"\$ORIGIN/lib" 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/opengl.dir/main.cpp.o  -o ../../../bin/opengl -rdynamic ../../../linux/x64/lib/liblua.a -ldl -Wl,-rpath,"\$ORIGIN/lib" 
